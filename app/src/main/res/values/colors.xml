@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="grey">#cfe0e8</color>
+    <color name="babyBlue">#b7d7e8</color>
+    <color name="lightBlue">#87bdd8</color>
+    <color name="babyGreen">#daebe8</color>
+    <color name="darkPurple">#4b0082</color>
+    <color name="darkBlue">#3B5998</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="blue">#ADD8E6</color>
+
+
+
+
+</resources>
